@@ -3,7 +3,6 @@ import './skills.css';
 import 'antd/dist/antd.css';
 
 import { Progress } from 'antd';
-import m1 from './images/m1.svg';
 import { sampleData } from '../data/skillsData';
 
 
